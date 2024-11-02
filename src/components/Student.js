@@ -16,9 +16,9 @@ const Student = () => {
     <th style={myStyles}>Department</th>
   </tr>
   <tr>
-    <td>K.SaiLaxmanRao</td>
+    <td>Naidu Basudev</td>
     <td>2023</td>
-    <td>CS&IT</td>
+    <td>CSE</td>
   </tr>
   <tr>
     <td>T.K.Chanadn</td>
