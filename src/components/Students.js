@@ -7,9 +7,9 @@ const Students = () => {
       <h1>Students Attendance</h1>
       <div >
   <div class="s1">
-   <h3> Name:K.SaiLaxmanRao</h3>
-   <h3> Id:2300090230</h3>
-   <h3> Branch:CS & IT</h3>
+   <h3> Name:Naidu Basudev</h3>
+   <h3> Id:2300032191</h3>
+   <h3> Branch:CSE</h3>
   <Attendance/>
   </div>
   <table>....</table>
